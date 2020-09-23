@@ -28,7 +28,7 @@ def returns(X):
     """
     * Compute returns.
     """
-
+    pass
 
 def getfeatures(X, feats, **kwargs):
     """

@@ -6,7 +6,6 @@ import torch
 def loss_beat_index(forward_pass, model, **kwargs):
     pass
 
-
 class BeatSNP(torch.nn.Module):
     def __init__(self, data, features):
         """
